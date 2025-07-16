@@ -1,5 +1,8 @@
 # 📊 From Tags to Trends: Stack Overflow Insights (2022–2025)
 
+### 📉 Popularity Trends Over Time  
+<img src="./trendChart.png" alt="Tag Popularity Trends" width="800"/>
+
 Welcome to my Stack Overflow Trends Analysis project!  
 This project is all about tracking how developer interests have changed over the past few years by analyzing tag data from Stack Overflow posts between **2022 and 2025**.
 
@@ -39,12 +42,9 @@ I wanted to see which programming languages, frameworks, and technologies develo
 ---
 
 ### 🏆 Top Tags by Total Posts  
-<img src=".img/topTagsChart.png" alt="Top Tags by Total Posts" width="800"/>
+<img src="./topTagsChart.png" alt="Top Tags by Total Posts" width="800"/>
 
 ---
-
-### 📉 Popularity Trends Over Time  
-<img src=".img/trendChart.png" alt="Tag Popularity Trends" width="800"/>
 
 ---
 
