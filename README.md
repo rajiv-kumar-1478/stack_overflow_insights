@@ -29,22 +29,22 @@ I wanted to see which programming languages, frameworks, and technologies develo
 ## 📊 Visual Highlights  
 
 ### 🗓️ Monthly Tag Usage  
-![Monthly Tag Usage](barChart.png)
+<img src="./barChart.png" alt="Monthly Tag Usage" width="800"/>
 
 ---
 
 ### 🎯 Overall Tag Distribution  
-![Overall Tag Distribution](pieChart.png)
+<img src="./pieChart.png" alt="Overall Tag Distribution" width="800"/>
 
 ---
 
 ### 🏆 Top Tags by Total Posts  
-![Top Tags](topTagsChart.png)
+<img src=".img/topTagsChart.png" alt="Top Tags by Total Posts" width="800"/>
 
 ---
 
 ### 📉 Popularity Trends Over Time  
-![Trends Over Time](trendChart.png)
+<img src=".img/trendChart.png" alt="Tag Popularity Trends" width="800"/>
 
 ---
 
