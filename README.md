@@ -36,10 +36,7 @@ I wanted to see which programming languages, frameworks, and technologies develo
 
 ---
 
-### 🎯 Overall Tag Distribution  
-<img src="./pieChart.png" alt="Overall Tag Distribution" width="800"/>
 
----
 
 ### 🏆 Top Tags by Total Posts  
 <img src="./topTagsChart.png" alt="Top Tags by Total Posts" width="800"/>
