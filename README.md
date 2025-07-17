@@ -49,12 +49,11 @@ I wanted to see which programming languages, frameworks, and technologies develo
 
 - **Python** and **JavaScript** remain the most popular tags overall  
 - Languages like **Java** and **C++** have seen a gradual decline  
-- Frameworks like **TypeScript**, **ReactJS**, and **Flutter** are gaining attention  
 - Overall Stack Overflow engagement seems to be dropping — could be due to changing platforms or community behavior  
 
 ---
 
-## 🚀 Check It Out  
+## 🚀 Live Demo  
 
 Take a look at the live project here:  
 [👉 **Live Project Link**](https://rajiv1478.netlify.app/projects)
